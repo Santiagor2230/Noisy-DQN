@@ -34,3 +34,10 @@ AdamW
 
 # Loss
 smooth L1 loss function
+
+# Video Result
+
+
+
+https://github.com/Santiagor2230/Noisy-DQN/assets/52907423/09e6f4a1-32ef-4c00-923f-7fef0124630e
+
