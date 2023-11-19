@@ -21,7 +21,7 @@ torch == 2.0.1
 
 
 # Description
-Noisy DQN is a continuation of double DQN with Priotirized Experience Replay, in this instance we modify the weights of the neural network by allowing them to have some sort of noise when training this allows us for the neural network to implictly explore the environment by choosing actions that may not give the highest reward making this approach stochastic and not deterministic.
+Noisy DQN is a continuation of dueling double DQN with Priotirized Experience Replay, in this instance we modify the weights of the neural network by allowing them to have some sort of noise when training this allows us for the neural network to implictly explore the environment by choosing actions that may not give the highest reward making this approach stochastic and not deterministic.
 
 # Game
 Catcher
